@@ -1,2 +1,5 @@
-First Line
-Second Line
+Hello, first
+World is great
+I'm here!
+
+New last lineNew last lineNew last lineNew last lineNewly added line
